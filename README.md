@@ -1,4 +1,4 @@
-# Cynthetic-Time: An Advanced Synthetic Data Generator for Crafting Multivariate Time-Series Data with Diverse Patterns and Missingness Mechanisms
+# Cynthetic-Time: A Synthetic Data Generator for Crafting Multivariate Time-Series Data with Diverse Patterns and Missingness Mechanisms
 
 In this document, we will provide a comprehensive overview of each function within the Python script and elaborate on their contributions to the synthetic multivariate time-series data generation process. This process is tailored to generate samples exhibiting multiple patterns while addressing a wide range of characteristics inherent to multivariate time-series data. To accomplish this, the synthetic data generation process employs the following functions:
 
